@@ -1,0 +1,4 @@
+numpy==1.23.5
+pandas==1.5.3
+biopython==1.78
+rna-fm==0.2.2
