@@ -9,7 +9,7 @@
 RiboDFM is a backbone-conditioned discrete flow-matching framework for RNA sequence design. It integrates a geometric backbone encoder, an auxiliary base-pairing prediction head, and pretrained RNA-FM representations to progressively transform a fully masked sequence into a sequence compatible with the target backbone.
 
 <p align="center">
-<img src="flowchart.png" alt="RiboDFM Pipeline" width="60%">
+<img src="flowchart.png" alt="RiboDFM Pipeline" width="80%">
 </p>
 <p align="center">
 <strong>Figure 1</strong>: Overview of the RiboDFM framework.
